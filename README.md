@@ -38,5 +38,6 @@
 
 ### [Git Status](https://github.com/JJefersonLimaF)💥
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JJefersonLimaF&show_icons=true&theme=transparent"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJefersonLimaF&layout=compact&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JJefersonLimaF&show_icons=true&theme=transparent"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJefersonLimaF&layout=compact&theme=transparent"/>
 </div>
