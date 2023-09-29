@@ -17,7 +17,8 @@
 ### Entre em contato comigo 📫
 
 <div aling="center">
-
+<img align="right" alt="minha imagem" width="250" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" />
+  
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/limajjf/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-jeferson-lima-feitosa-b9a11b1aa/)
   
