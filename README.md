@@ -6,9 +6,9 @@
 
 🎓 Eu estudo Desenvolvimento de Software com Foco em Back-End [Cubos Academy](https://cubos.academy)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=081D8D&height=120&section=header"/>
+<img width=80% src="https://capsule-render.vercel.app/api?type=waving&color=081D8D&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2acaea&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Jeferson+Lima;I'm+19+years+old;I'm+from+Brazil;I+Studenty+of+Cubos+Academy;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2acaea&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Jeferson+Lima;I'm+32+years+old;I'm+from+Brazil;I+Studenty+of+Cubos+Academy;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jjefersonlimaf&bg_color=0d1117&color=2accea&line=081d8d&point=2accea&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -16,7 +16,7 @@
 
 ### Entre em contato comigo 📫
 
-<div>
+<div aling="center">
 
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/limajjf/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-jeferson-lima-feitosa-b9a11b1aa/)
@@ -24,7 +24,7 @@
 </div>
 
 ### Tecnologias e Feramentas 🛠️
-<div>
+<div aling="center">
   
 <img align="center" alt="JJefersonLimaF-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="center" alt="JJefersonLimaF-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
